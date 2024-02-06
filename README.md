@@ -1,5 +1,5 @@
 # Zomato-Business-Performance
-The project task was to analyze the business performance of Zomato's restauraunts and provide report and a vizualization of my findings.
+The project task was to analyze the business performance of Zomato's restauraunts and provide a report and vizualization of my findings.
 [HERE](https://public.tableau.com/views/BusinessPerformanceofZomato/BusinessPerformanceofZomato?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Filtered the database to only show the top ten resturants with the highest reveune.
